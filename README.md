@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nitin Yadav</h1>
-<h3 align="center">A passionate Machine Learning Enthusiast from Mumbai, India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ni-tin-10&label=Profile%20views&color=0e75b6&style=flat" alt="ni-tin-10" /> </p>
-
 - 📫 How to reach me **nynitin450@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
